@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Plaintext lore, party details and passphrases. NEVER commit this folder.
+# Only the encrypted output in public/vault/ is committed. Back content/ up somewhere private.
+content/
